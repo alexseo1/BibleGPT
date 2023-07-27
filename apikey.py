@@ -1,0 +1,2 @@
+OPENAI_apikey = 'OPENAI_API_KEY'
+SERPER_apikey = 'SERPER_API_KEY'
