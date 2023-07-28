@@ -39,7 +39,7 @@ title_template = PromptTemplate(
 
 script_template = PromptTemplate(
     input_variables=['title'], 
-    template='write me a very short advice based on this title TITLE: {title} '#but also while leveraging this google search but make sure it is biblical related: {google_search}' 
+    template='write me a very short advice based on this title TITLE: {title} ' 
     # ^change this to whatever fits
 
 )
